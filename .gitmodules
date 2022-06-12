@@ -1,0 +1,3 @@
+[submodule "oraivote-contracts"]
+	path = oraivote-contracts
+	url = https://github.com/hoangdv2429/oraivote-contracts
