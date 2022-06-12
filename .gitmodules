@@ -1,3 +1,15 @@
 [submodule "oraivote-contracts"]
 	path = oraivote-contracts
 	url = https://github.com/hoangdv2429/oraivote-contracts
+[submodule "oraivote-frontend"]
+	path = oraivote-frontend
+	url = https://github.com/hoangdv2429/oraivote-frontend
+[submodule "oraivote-ceramic"]
+	path = oraivote-ceramic
+	url = https://github.com/hoangdv2429/ceramic-cosmos
+[submodule "oraivote-crawler"]
+	path = oraivote-crawler
+	url = https://github.com/thaiduongme/oraihackathon_voting-crawler
+[submodule "oraivote-backend"]
+	path = oraivote-backend
+	url = https://github.com/thaiduongme/orai_hackthon-voting-backend
